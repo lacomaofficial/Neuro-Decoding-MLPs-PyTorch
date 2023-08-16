@@ -1,8 +1,8 @@
 # Neural Signal Decoding with MLPs on PyTorch
 
-Decoding brain signals using deep learning on the Haxby dataset. Develop, train, and test models within the PyTorch framework. Discover how non-linearities in Multilayer Perceptrons enhance decoding capabilities for complex cognitive processes.
+Decoding brain signals using deep learning on the Haxby dataset. Analyze, train, and test models within the PyTorch framework. Discover how non-linearities in Multilayer Perceptrons enhance decoding capabilities for complex cognitive processes.
 
-As we delve into the very essence of our model, we unlock its potential to comprehend and categorize neural signals. Our model learns to distinguish between categories as diverse as "rest," "face," "chair," and others. Each iteration of training breathes life into our data, revealing its predictive prowess and its ability to decipher the profound stories hidden within neural patterns.
+
 
 ## Project Highlights
 
